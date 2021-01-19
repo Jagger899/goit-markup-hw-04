@@ -522,6 +522,7 @@ address {
 .footer-social-links:hover,
 .footer-social-links:focus {
   background-color: var(--accent-color);
+  color: var(--primary-white-color);
   outline: none;
 }
 
